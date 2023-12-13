@@ -78,6 +78,7 @@ body
 }
 .My_Container .row .Right_Panel .ProFile img
 {
+    margin-top: 30px;
 width: 70%;
 border-radius: 100%;
 }
@@ -198,6 +199,8 @@ border-radius: 100%;
 .Projects
 {
     margin-top: 100px;
+    margin-right: 15px !important;
+    width: 100%;
 }
 .Projects h2
 {
@@ -206,9 +209,27 @@ border-radius: 100%;
 
 .Project a
 {
-    display: flex;
+    background: rgba(144, 0, 255, 0.43);
+    border-radius: 4px;
 }
+.Project
+{
+    margin-top: 30px;
+    transition: all  1s ;
 
+}
+.Project a .Detail
+{
+    margin-top: 15px;
+}
+.Project:hover
+{
+    scale: 1.10;
+}
+.Project a .Picture img
+{
+        width: 100%;
+}
 
 
 
