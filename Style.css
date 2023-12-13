@@ -1,0 +1,121 @@
+@font-face {
+    font-family: Iran Yekan;
+    src: url("./Font/IRANYekanWebLight.ttf") format(ttf),
+         url("./Font/IRANYekanWebLight.woff") format(woff),
+         url("./Font/IRANYekanWebLight.woff2") format(woff)
+}
+
+*
+{
+    font-family: Iran Yekan ;
+    margin: 0;
+    padding: 0;
+    color: aliceblue;  
+}
+a
+{
+text-decoration: none;
+}
+.Center
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex_Clo_Dir
+{
+    flex-direction: column;
+}
+.Border_Bottom
+{
+    padding-bottom: 10px;
+    border-bottom:3px solid aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body
+{
+    background-color: 	#000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 150vh;
+}
+.Container{
+    background-color:	#111111 ;
+    width: 100%;
+    max-width: 1000px;
+    min-height: 100px;
+    border-radius:25px;
+    /* position: relative; */
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    box-shadow: rgba(76,76,76, 0.35) 0px 5px 15px;
+}
+.Container .Right_Panel
+{
+    /* position: relative; */
+    background-color: #9500ff65;
+    padding: 40px;
+    border-radius: 0 20px 20px 0;
+    
+}
+.Container .Left_Panel
+{
+    /* position: relative; */
+}
+.Container .Right_Panel .ProFile
+{
+
+}
+.Container .Right_Panel .ProFile img
+{
+width: 70%;
+border-radius: 100%;
+}
+.Container .Right_Panel .ProFile h2
+{
+    margin-bottom: 20px;
+}
+.Container .Right_Panel .Personal_Data
+{
+    padding-top: 20%;
+
+}
+.Container .Right_Panel .Personal_Data .Data
+{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+.Container .Right_Panel .Personal_Data .Data 
+{
+     
+}
+
+
+
+.Container .Left_Panel .Skils{
+    width: 80%;
+
+}
+
+.Container .Left_Panel .Skils .Hard_Skils{
+}
+
+.Container .Left_Panel .Skils .Soft_Skils{
+}
