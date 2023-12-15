@@ -100,7 +100,7 @@ border-radius: 100%;
 }
 
 .My_Container .row .Left_Panel .Skils{
-    width: 100%;
+    width: 103%;
 }
 .My_Container .row .Left_Panel .Skils .Hard_Skil
 {
@@ -311,6 +311,10 @@ border-radius: 100%;
     .My_Container .row .Right_Panel h3
     {
         font-size: 2vh !important;
+    }
+    .Skil
+    {
+     width: 83%;
     }
   }
 
