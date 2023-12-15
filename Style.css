@@ -9,10 +9,9 @@
 	font-family: iransansdn;
 	font-style: normal;
 	font-weight: bold;
-	src: url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/eot/iransansdnbold.eot");
-	src: url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/eot/iransansdnbold.eot?#iefix") format("embedded-opentype"),  /* IE6-8 */
-		 url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/woff2/iransansdnbold.woff2") format("woff2"),  /* FF39+,Chrome36+, Opera24+*/
-		 url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/woff/iransansdnbold.woff") format("woff"),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	src: url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/eot/iransansdnbold.eot?#iefix") format("embedded-opentype"),
+		 url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/woff2/iransansdnbold.woff2") format("woff2"),  
+		 url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/woff/iransansdnbold.woff") format("woff"), 
 		 url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/ttf/iransansdnbold.ttf") format("truetype");
 }
 
@@ -20,10 +19,9 @@
 	font-family: iransansdn;
 	font-style: normal;
 	font-weight: 300;
-	src: url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/eot/iransansdnbold.eot");
-	src: url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/eot/iransansdnbold.eot?#iefix") format("embedded-opentype"),  /* IE6-8 */
-		 url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/woff2/iransansdnbold.woff2") format("woff2"),  /* FF39+,Chrome36+, Opera24+*/
-		 url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/woff/iransansdnbold.woff") format("woff"),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	src: url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/eot/iransansdnbold.eot?#iefix") format("embedded-opentype"),  
+		 url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/woff2/iransansdnbold.woff2") format("woff2"), 
+		 url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/woff/iransansdnbold.woff") format("woff"), 
 		 url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/ttf/iransansdnbold.ttf") format("truetype");
 }
 
@@ -31,10 +29,9 @@
 	font-family: iransansdn;
 	font-style: normal;
 	font-weight: normal;
-	src: url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/eot/iransansdnbold.eot");
-	src: url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/eot/iransansdnbold.eot?#iefix") format("embedded-opentype"),  /* IE6-8 */
-		 url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/woff2/iransansdnbold.woff2") format("woff2"),  /* FF39+,Chrome36+, Opera24+*/
-		 url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/woff/iransansdnbold.woff") format("woff"),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	src: url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/eot/iransansdnbold.eot?#iefix") format("embedded-opentype"), 
+		 url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/woff2/iransansdnbold.woff2") format("woff2"),  
+		 url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/woff/iransansdnbold.woff") format("woff"), 
 		 url("/Font/IRANSansDN.v1@zero_font/WebFonts/fonts/ttf/iransansdnbold.ttf") format("truetype");
 }
 
