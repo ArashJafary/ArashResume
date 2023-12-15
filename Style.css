@@ -5,9 +5,11 @@
          url("./Font/IRANYekanWebLight.woff2") format(woff)
 }
 
+@import "/Font/WebFonts/css/fontiran.css"; 
+
 *
 {
-    font-family: Iran Yekan ;
+    font-family: iransansdn;
     margin: 0;
     padding: 0;
     color: #DCCAE9 !important;  
@@ -98,7 +100,17 @@ border-radius: 100%;
     justify-content: space-between;
     margin-top: 33px;
 }
+.Data a i
+{
+    font-size: 35px;
+    transition: all 0.5s ;
+}
 
+.Data a i:hover
+{
+    font-size: 55px;
+    margin-top: 10px;
+}
 .My_Container .row .Left_Panel .Skils{
     width: 103%;
 }
