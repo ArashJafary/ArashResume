@@ -344,6 +344,15 @@ border-radius: 100%;
     {
      width: 83%;
     }
+
+    .Data a i{
+        margin-bottom: 20px;
+    }
+    .Data a i:hover
+{
+    font-size: 40px;
+    margin-top: 35px;
+}
   }
 
 
