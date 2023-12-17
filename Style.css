@@ -7,10 +7,10 @@
 
 @font-face {
 	font-family: iransansdn;
-    src: url("./Font/iransansdnlight.eot") format(embedded-opentype),
-         url("./Font/iransansdnlight.ttf") format(ttf),
-		 url("./Font/iransansdnlight.woff") format(woff),  
-		 url("./Font/iransansdnlight.woff2") format(woff2);
+    src: url("./Font/iransansdnlight.eot") format("embedded-opentype"),
+         url("./Font/iransansdnlight.ttf") format("ttf"),
+		 url("./Font/iransansdnlight.woff") format("woff"),  
+		 url("./Font/iransansdnlight.woff2") format("woff2");
 }
 *
 {
